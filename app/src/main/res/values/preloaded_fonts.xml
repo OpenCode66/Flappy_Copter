@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/aclonica</item>
+        <item>@font/autour_one</item>
+        <item>@font/bungee_inline</item>
+        <item>@font/gruppo</item>
+        <item>@font/holtwood_one_sc</item>
+        <item>@font/press_start_2p</item>
+        <item>@font/rammetto_one</item>
+        <item>@font/stint_ultra_expanded</item>
+    </array>
+</resources>
